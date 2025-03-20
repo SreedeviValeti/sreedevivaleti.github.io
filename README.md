@@ -44,6 +44,6 @@ Hi there! I'm a **Cloud Engineer** with over 3 years of experience specializing 
 
 ## Contact Me
 - **Email**: sreedevivaleti16@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/sreedevivaleti
+- **LinkedIn**: https://www.linkedin.com/in/Sreedevi Valeti
 - **GitHub**: https://github.com/SreedeviValeti
 - **Portfolio**: https://github.com/SreedeviValeti/sreedevivaleti.github.io

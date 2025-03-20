@@ -30,7 +30,7 @@ Hi there! I'm a **Cloud Engineer** with over 3 years of experience specializing 
 
 ## Experience
 
-### Cloud Engineer | [ERPA] | [Oct 2021] – Present
+### Cloud Engineer | ERPA | Oct 2021 – Present
 - Designed and deployed scalable cloud infrastructures for multiple projects using **AWS** services such as **EC2**, **S3**, **VPC**, and **RDS**.
 - Managed **AWS IAM** policies and roles to ensure secure access to cloud resources, implementing least-privilege access.
 - Automated cloud infrastructure provisioning using **Terraform** and **AWS CloudFormation**, reducing manual effort by 40%.

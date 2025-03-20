@@ -9,11 +9,8 @@ author:
   name: Sreedevi Valeti
   email: sreedevivaleti16@gmail.com
 
-# Markdown settings
-markdown: kramdown
-
 # Theme
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 
 # Social Media links
 social_links:
